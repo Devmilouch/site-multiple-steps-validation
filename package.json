@@ -1,6 +1,7 @@
 {
   "name": "multi-step-validation",
   "version": "0.1.0",
+  "homepage": "https://amarbouabbache.com/sites/multiple-steps-validation/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
